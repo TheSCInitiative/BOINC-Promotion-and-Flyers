@@ -1,4 +1,4 @@
-These logos copied from https://boinc.berkeley.edu/logo.php
+These logos copied from https://boinc.berkeley.edu/logo.php. There is a treasure trove of alternate logo designs.
 
 Terms of use:
 "The BOINC logo and its variants are copyright (C) University of California. If you use one of these images in a web page or other medium, you must link it to the BOINC web site (currently https://boinc.berkeley.edu) or display that URL next to the image. "
