@@ -7,6 +7,9 @@ High-res versions of the logo are available at the [BOINC logo page](https://boi
 
 External links:
 
+BOINC Workshop Videos:
+https://www.youtube.com/channel/UC1YM32SpdGnb1S5b5gUJPyQ
+
 BOINC Tutorial Videos:
 
 https://www.youtube.com/watch?v=fRElMc2XnfQ&list=PLCbQEQLspKkbRrlExPL7Vf4YccnH31nOi
