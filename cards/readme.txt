@@ -1,4 +1,4 @@
-These files are free to use for anybody looking to promote boinc. The QR code and URL in the flyers currently redirect to the BOINC download page on the berkeley site (boinc.berkeley.edu main page instead tries to direct people to Science United) OR the project website for project-specific cards.
+These files are free to use for anybody looking to promote boinc. The QR code and URL in the flyers currently redirect to the BOINC download page on the berkeley site (boinc.berkeley.edu main page instead tries to direct people to Science United) OR the project website for project-specific cards. The BOLD designs have A4 and 9.5x11 equivalents in the repo's flyers section.
 
 In the future, the main BOINC card URL may redirect to a landing page explaining what BOINC is, how to use it, etc. 
 
