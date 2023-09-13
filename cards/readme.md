@@ -2,8 +2,8 @@ These files are free to use for anybody looking to promote boinc. The QR code an
 
 Stickers with the BOINC BOLD design on them are available at our [redbubble store](https://www.redbubble.com/shop/ap/152119682)
 In the future, the main BOINC card URL may redirect to a landing page explaining what BOINC is, how to use it, etc. 
-![Business card example](/cards/BOINC-BOLD-1.png)
 ![Business card example](/cards/BOINC-BOLD-2.png)
+![Business card example](/cards/BOINC-BOLD-1.png)
 ![Business card example](/cards/BOINC-BOLD_2-1.png)
 ![Business card example](/cards/BOINC%20General-1.png)
 ![Business card example](/cards/BOINC%20General-2.png)
