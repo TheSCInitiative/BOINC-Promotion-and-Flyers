@@ -4,8 +4,8 @@ Stickers with the BOINC BOLD design on them are available at our [redbubble stor
 
 Graphics etc from Adobe Canva produced with a full license. Canva has some of its own licensing terms, please see their site for information. In short, you can use this to promote BOINC however you'd like, but you can't take the individual graphics from it and re-license them or anything like that.
 
-![Business card example](/cards/BOINC-BOLD-2.png)
-![Business card example](/cards/BOINC-BOLD-1.png)
-![Business card example](/cards/BOINC_BOLD_2-1.png)
-![Business card example](/cards/BOINC%20General-1.png)
-![Business card example](/cards/BOINC%20General-2.png)
+![Business card example](/cards/BOINC-BOLD-2.png | height=400)
+![Business card example](/cards/BOINC-BOLD-1.png | height=400)
+![Business card example](/cards/BOINC_BOLD_2-1.png | height=400)
+![Business card example](/cards/BOINC%20General-1.png | height=400)
+![Business card example](/cards/BOINC%20General-2.png | height=400)
